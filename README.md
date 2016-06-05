@@ -10,3 +10,6 @@
   
 ### General Descriptions
   * Leveraged reinforcement techniques to train a smartcab how to drive in an idealized grid-like city, with roads going North-South and East-West.
+
+## License
+The content of this repository is licensed under [MIT License](https://github.com/ArthurLu/MLND.Project4/blob/master/LICENSE.txt)
